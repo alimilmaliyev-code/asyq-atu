@@ -96,6 +96,3 @@ npm run preview
 - Республиканский центр физической культуры — PDF с правилами игры «Асық»: https://tursport.akmol.kz/public/uploads/pravila_igri_asik.pdf
 - Assembly of People of Kazakhstan — описание традиционной игры и «Алшы ойыны»: https://assembly.kz/ethnos/kk/kazakhi/natsionalnye-igry/asy/
 
-## Лицензия
-
-Для конкурсной работы исходный код может распространяться в рамках лицензии MIT после финальной проверки автора проекта.
